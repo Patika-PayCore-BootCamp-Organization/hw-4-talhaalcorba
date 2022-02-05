@@ -1,5 +1,6 @@
 # hw-4-talhaalcorba
 hw-4-talhaalcorba created by GitHub Classroom
+
 1 – What is JPA ?
 
 2 - What is the naming convention for finder methods in the Spring data repository interface ?
